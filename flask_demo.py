@@ -29,6 +29,9 @@ for _ in range(10):
     except ConnectionRefusedError:
         print("Connecting to index server has failed, waiting before retrying...")
         time.sleep(3)
+else:  # This will run if the for loop completes without a break
+    print("Failed to connect after all retries. Exiting.")
+    exit(1)
 
 executor = ThreadPoolExecutor()
     
@@ -36,19 +39,19 @@ executor = ThreadPoolExecutor()
 def query_index():
     global manager
     query_text = request.args.get("text", None)
-    query_doc_id = request.args.get("doc_id", None)
-    
+
     if query_text is None:
         return "No text found, please include a ?text=blah parameter in the URL", 400
     
-    manager.initialize_index() 
     # we aren't make a unique index for each user, so not sure we need UUID
-    response = manager.query_index(query_text, query_doc_id)._getvalue()
+    response = manager.query_index(query_text)._getvalue()
     response_json = {
         "text": str(response),
     }
     return make_response(jsonify(response_json)), 200
 
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5601)
 
 
 
