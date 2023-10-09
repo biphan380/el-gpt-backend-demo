@@ -1,11 +1,8 @@
 import time
 from concurrent.futures import ThreadPoolExecutor
-import json
-import os
 from multiprocessing.managers import BaseManager
 from flask import Flask, request, jsonify, make_response, Response
 from flask_cors import CORS
-import uuid
 from concurrent.futures import as_completed
 from werkzeug.utils import secure_filename
 
@@ -28,7 +25,7 @@ for _ in range(10):
         break
     except ConnectionRefusedError:
         print("Connecting to index server has failed, waiting before retrying...")
-        time.sleep(3)
+        time.sleep(5)
 else:  # This will run if the for loop completes without a break
     print("Failed to connect after all retries. Exiting.")
     exit(1)
@@ -43,7 +40,6 @@ def query_index():
     if query_text is None:
         return "No text found, please include a ?text=blah parameter in the URL", 400
     
-    # we aren't make a unique index for each user, so not sure we need UUID
     response = manager.query_index(query_text)._getvalue()
     response_json = {
         "text": str(response),

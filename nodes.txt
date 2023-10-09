@@ -86,9 +86,9 @@ disability.
 
 Metadata:
 title: George
-questions_this_excerpt_can_answer: 1. What specific grounds of discrimination were alleged by the applicant in this case?
-2. What reasons did the respondent provide for not offering the applicant a certain position?
-3. Why did the applicant wait until her exit interview to raise concerns about discrimination?
+questions_this_excerpt_can_answer: 1. What specific grounds of discrimination were alleged by Betty George in her application to the Human Rights Tribunal of Ontario?
+2. What reasons did the respondent, AccertaClaim Servicorp Inc., provide for not offering Betty George a particular job opportunity?
+3. Why did Betty George not approach senior management about the job in question or indicate that she believed she had been discriminated against until her exit interview?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -154,8 +154,8 @@ more than $10.000.00 to $57,500.0 0, and she went from salary grade 7 to 10.
 Metadata:
 title: George
 questions_this_excerpt_can_answer: 1. How did the applicant's salary and job level change during her employment with the respondent company?
-2. What qualifications and courses did the applicant complete while employed by the respondent, and who paid for them?
-3. What is the relationship between the Ontario Dental Association (ODA) and the respondent company, and how do they share office space?
+2. What qualifications and courses did the applicant complete while employed by the respondent company?
+3. What is the relationship between the Ontario Dental Association (ODA) and the respondent company, and how does it impact the applicant's employment?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -214,9 +214,9 @@ the business  known , she had not been  given any opportunities to do so.
 
 Metadata:
 title: George
-questions_this_excerpt_can_answer: 1. How did the applicant's salary and job responsibilities change over time at the respondent company?
-2. What evidence was presented regarding the racial composition of the workplace and the diversity within the management structure of the company?
-3. Why was the applicant interested in working on the public side of the business and what opportunities did she seek in order to do so?
+questions_this_excerpt_can_answer: 1. How did the applicant's salary and job position change over time at the respondent company?
+2. What was the racial composition of the workplace and management structure at the respondent company?
+3. Why did the applicant express interest in moving to the public side of the business and what opportunities were given to her to do so?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -277,8 +277,8 @@ surprised when the applicant raised the issue of discrimination.
 Metadata:
 title: George
 questions_this_excerpt_can_answer: 1. What were the reasons given by the CEO for not investing in the private side of the business and focusing on the public side instead?
-2. Why did the applicant believe that the creation and filling of the newly created position on the public side of the business was irregular?
-3. What were the qualifications and experience of CQ that made her a good fit for the newly created position, according to the respondent?
+2. Why did the applicant believe that the newly created position on the public side of the business was being groomed for a senior or executive management role?
+3. What were the qualifications and experience of the employee who was transferred to the newly created position, and why did the applicant believe that there were more qualified candidates who could have been selected for the job?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -338,8 +338,8 @@ v. Kapp , 2008 SCC 41, and Withler v. Canada (Attorney General) , 2011 SCC 12.
 
 Metadata:
 title: George
-questions_this_excerpt_can_answer: 1. What evidence does Doug Cooper provide regarding the applicant's resignation and the issue of discrimination during the meeting?
-2. What were the company's plans for the applicant and why was she placed in an administrative role?
+questions_this_excerpt_can_answer: 1. What evidence does Doug Cooper provide regarding the applicant's resignation and the issue of discrimination raised during the meeting?
+2. What were the company's plans for the applicant and why was she placed in an administrative role instead of being promoted to manager of operations?
 3. How does the Supreme Court of Canada define discrimination under the Code and the Charter, and what criteria must be met to establish a case of discrimination?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
@@ -565,7 +565,7 @@ Metadata:
 title: Phipps
 questions_this_excerpt_can_answer: 1. What were the specific allegations made by Ronald Phipps against Michael Shaw and the Toronto Police Services Board?
 2. What evidence was presented during the Case Resolution Conference that led to the finding of discrimination against Ronald Phipps?
-3. What was the recommended patrol assignment given to Michael Shaw and Diane Noto on the day of the incident involving Ronald Phipps?
+3. What was the recommended patrol assignment given to Michael Shaw and Diane Noto on the day of the incident, and how did it relate to the discrimination complaint filed by Ronald Phipps?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -749,9 +749,9 @@ forth across the street in an unusual manner as soon as they turned the corner.
 
 Metadata:
 title: Phipps
-questions_this_excerpt_can_answer: 1. How have Canadian courts acknowledged the existence of racial profiling by police and what factors do they consider when assessing whether an incident falls within the phenomenon of racial profiling?
-2. What factors did Constable Shaw claim influenced his actions in surveilling and stopping the applicant, and how does the chronology of events suggest that the applicant's skin colour played a role in his actions?
-3. Why is the fact that the applicant was not the usual letter carrier not a suspicious circumstance, and how does this contrast with Constable Shaw's heightened alertness towards the applicant's skin colour?
+questions_this_excerpt_can_answer: 1. How have Canadian courts acknowledged the existence of racial profiling by police and indicated their willingness to scrutinize seemingly "neutral" police behavior to assess whether it falls within the phenomenon of racial profiling?
+2. What factors did Constable Shaw assert as unusual that influenced his actions towards the applicant, and how do these factors compare to the applicant's skin color as a potential factor in Constable Shaw's actions?
+3. Why is the fact that the applicant was not the usual letter carrier not considered a suspicious circumstance, and how does this factor differ from Constable Shaw's response to an unfamiliar White male delivering water in the area?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -808,9 +808,9 @@ testified Ms. Katz advised her that the applicant said he had misdelivered somet
 
 Metadata:
 title: Phipps
-questions_this_excerpt_can_answer: 1. What specific factors led Constable Shaw to become suspicious of the applicant, and how did these factors differ from his response to other individuals in the area?
-2. Did the applicant's behavior, such as crossing back and forth across the street or not stopping at every house, align with the typical behavior of letter carriers, and how did Constable Shaw's perception of this behavior contribute to his decision to place the applicant under surveillance?
-3. How did Constable Shaw's actions, such as finding it suspicious that the applicant spoke to a resident without delivering any mail or flyers, further reinforce his initial suspicions about the applicant being an African Canadian male in an affluent neighborhood?
+questions_this_excerpt_can_answer: 1. What specific characteristics of the applicant led Constable Shaw to place him under surveillance in an affluent neighborhood?
+2. How did Constable Shaw's actions and behavior towards the applicant differ from his response to an unfamiliar white male delivering water in the same area?
+3. Why did Constable Shaw find it suspicious that the applicant knocked on a resident's door and spoke to a woman without delivering any mail or flyers?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -872,7 +872,7 @@ Metadata:
 title: Phipps
 questions_this_excerpt_can_answer: 1. How did Constable Shaw's suspicion of the applicant's behavior contribute to the breach of the applicant's right to equal treatment without discrimination on the basis of color?
 2. What were the specific actions taken by Constable Shaw that demonstrated his continued scrutiny of the applicant based on his color?
-3. How did the manner and content of the conversations between the applicant and the officers contribute to the overall discriminatory treatment experienced by the applicant?
+3. How did the manner and content of the conversations between the applicant and the officers affect the remedial aspect of the case?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
