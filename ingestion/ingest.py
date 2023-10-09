@@ -142,7 +142,7 @@ def create_index(input_dir: string, namespace: string):
     index = VectorStoreIndex.from_vector_store(vector_store)
 
     from llama_index.storage import StorageContext
-    index.storage_context.persist(persist_dir="storage: " + namespace) #TODO: distinguish between the two indexes
+    index.storage_context.persist(persist_dir="storage: " + namespace) 
     print("index initialized")
     return index
 

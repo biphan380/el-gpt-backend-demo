@@ -86,9 +86,11 @@ disability.
 
 Metadata:
 title: George
-questions_this_excerpt_can_answer: 1. What specific grounds of discrimination were alleged by Betty George in her application to the Human Rights Tribunal of Ontario?
-2. What reasons did the respondent, AccertaClaim Servicorp Inc., provide for not offering Betty George a particular job opportunity?
-3. Why did Betty George not approach senior management about the job in question or indicate that she believed she had been discriminated against until her exit interview?
+questions_this_excerpt_can_answer: 1. What specific grounds of discrimination were alleged in the application filed by Betty George against AccertaClaim Servicorp Inc.?
+2. What were the reasons provided by the respondent for not offering Betty George a particular position within the company?
+3. Why does the respondent seek dismissal of the application filed by Betty George?
+
+Higher-level summary: This context involves a discrimination case filed by Betty George against AccertaClaim Servicorp Inc. The application alleges discrimination in employment based on various grounds, including race, color, ethnic origin, and age. The applicant claims that she was denied a promotion opportunity due to discriminatory reasons, while the respondent argues that the applicant was a valued employee and placing her in the position would have resulted in a demotion. The respondent seeks dismissal of the application.
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -154,8 +156,8 @@ more than $10.000.00 to $57,500.0 0, and she went from salary grade 7 to 10.
 Metadata:
 title: George
 questions_this_excerpt_can_answer: 1. How did the applicant's salary and job level change during her employment with the respondent company?
-2. What qualifications and courses did the applicant complete while employed by the respondent company?
-3. What is the relationship between the Ontario Dental Association (ODA) and the respondent company, and how does it impact the applicant's employment?
+2. What qualifications and courses did the applicant complete while employed by the respondent, and who paid for these courses?
+3. What is the relationship between the Ontario Dental Association (ODA) and the respondent company, and how are they connected in terms of office space and ownership?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -214,9 +216,9 @@ the business  known , she had not been  given any opportunities to do so.
 
 Metadata:
 title: George
-questions_this_excerpt_can_answer: 1. How did the applicant's salary and job position change over time at the respondent company?
+questions_this_excerpt_can_answer: 1. How did the applicant's salary and position change over time at the respondent company?
 2. What was the racial composition of the workplace and management structure at the respondent company?
-3. Why did the applicant express interest in moving to the public side of the business and what opportunities were given to her to do so?
+3. What were the main lines of business for the respondent company and how did the applicant's role fit into those lines of business?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -277,8 +279,8 @@ surprised when the applicant raised the issue of discrimination.
 Metadata:
 title: George
 questions_this_excerpt_can_answer: 1. What were the reasons given by the CEO for not investing in the private side of the business and focusing on the public side instead?
-2. Why did the applicant believe that the newly created position on the public side of the business was being groomed for a senior or executive management role?
-3. What were the qualifications and experience of the employee who was transferred to the newly created position, and why did the applicant believe that there were more qualified candidates who could have been selected for the job?
+2. Why did the applicant believe that the creation and filling of the newly created position on the public side of the business was irregular?
+3. What were the qualifications and experience of CQ that made her a good fit for the newly created position, according to the respondent?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -402,7 +404,7 @@ Metadata:
 title: George
 questions_this_excerpt_can_answer: 1. How does the Supreme Court of Canada define discrimination under both the Code and the Charter, and what criteria must be met to establish a case of discrimination?
 2. What is the applicant's argument regarding the respondent company's alleged systemic discrimination, and how does she support her claim?
-3. What is the respondent's defense against the applicant's allegations of discrimination, and what reasons do they provide for their actions in creating and filling a new position without competition?
+3. What is the respondent's defense against the applicant's allegations of discrimination, and what factors do they argue make the applicant's claims unfounded?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -462,8 +464,8 @@ Dated at Toronto, this 22nd day of January, 2016 .
 
 Metadata:
 title: George
-questions_this_excerpt_can_answer: 1. What was the event that caused the applicant to raise concerns about being overlooked for promotion and advancement within the respondent company?
-2. Was there any discernable disadvantage to the applicant resulting from the hiring or promotion of CQ to a new position within the company?
+questions_this_excerpt_can_answer: 1. What was the specific event that caused the applicant to raise concerns about being overlooked for promotion and advancement within the respondent company?
+2. Was there any discernable disadvantage or harm to the applicant as a result of the hiring or promotion of CQ to a new position within the company?
 3. Did the respondent company provide a non-discriminatory explanation for not considering the applicant for the job that CQ was placed into?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
@@ -565,7 +567,7 @@ Metadata:
 title: Phipps
 questions_this_excerpt_can_answer: 1. What were the specific allegations made by Ronald Phipps against Michael Shaw and the Toronto Police Services Board?
 2. What evidence was presented during the Case Resolution Conference that led to the finding of discrimination against Ronald Phipps?
-3. What was the recommended patrol assignment given to Michael Shaw and Diane Noto on the day of the incident, and how did it relate to the discrimination complaint filed by Ronald Phipps?
+3. What were the circumstances surrounding the incident on March 9, 2005, that led to the discrimination complaint?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -691,7 +693,7 @@ assess whether it falls within the phenomenon of racial profiling.  In R. v. Bro
 Metadata:
 title: Phipps
 questions_this_excerpt_can_answer: 1. Did the applicant believe that the police officers stopped and questioned him because of his skin color?
-2. Were any white workers in the area questioned by the police?
+2. Did the applicant observe any instances where white individuals in the same area were not questioned by the police?
 3. What principles apply in cases where an allegation of racial discrimination has been raised?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
@@ -749,9 +751,9 @@ forth across the street in an unusual manner as soon as they turned the corner.
 
 Metadata:
 title: Phipps
-questions_this_excerpt_can_answer: 1. How have Canadian courts acknowledged the existence of racial profiling by police and indicated their willingness to scrutinize seemingly "neutral" police behavior to assess whether it falls within the phenomenon of racial profiling?
-2. What factors did Constable Shaw assert as unusual that influenced his actions towards the applicant, and how do these factors compare to the applicant's skin color as a potential factor in Constable Shaw's actions?
-3. Why is the fact that the applicant was not the usual letter carrier not considered a suspicious circumstance, and how does this factor differ from Constable Shaw's response to an unfamiliar White male delivering water in the area?
+questions_this_excerpt_can_answer: 1. How have Canadian courts acknowledged the existence of racial profiling by police and what factors do they consider when assessing whether an incident falls within the phenomenon of racial profiling?
+2. What factors did Constable Shaw claim influenced his actions in surveilling and stopping the applicant, and how does the chronology of events suggest that the applicant's skin colour played a role in his actions?
+3. How does the testimony of Constables Shaw and Noto, along with the evidence presented, support the conclusion that the applicant's skin colour was a significant factor, and possibly the predominant factor, in Constable Shaw's actions?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -872,7 +874,7 @@ Metadata:
 title: Phipps
 questions_this_excerpt_can_answer: 1. How did Constable Shaw's suspicion of the applicant's behavior contribute to the breach of the applicant's right to equal treatment without discrimination on the basis of color?
 2. What were the specific actions taken by Constable Shaw that demonstrated his continued scrutiny of the applicant based on his color?
-3. How did the manner and content of the conversations between the applicant and the officers affect the remedial aspect of the case?
+3. How did the manner and content of the conversations between the applicant and the officers contribute to the overall discriminatory treatment experienced by the applicant?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
