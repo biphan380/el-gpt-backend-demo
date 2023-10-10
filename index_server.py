@@ -26,16 +26,24 @@ def initialize_indexes():
     print("start to initialize indexes")
     """Create a new global index, or load one from the pre-set path."""
     # Need a way to distinguish the indexes
-    global cases_index, stored_docs, docstore, index_store
+    global cases_index, regs_index, stored_docs, docstore, index_store
 
     # arg1 is directory to read from and arg2 is a namespace prefix for the directory that's persisted to disk 
     cases_index = create_index("cases/", "cases_index")
+    regs_index = create_index("regs/", "regs_index")
 
 def query_cases(query_text):
     """Query the global cases_index."""
     print("querying cases index...")
     global cases_index
     response = cases_index.as_query_engine().query(query_text)
+    return response
+
+def query_regs(query_text):
+    """Query the global regs_index."""
+    print("querying regs index...")
+    global regs_index
+    response = regs_index.as_query_engine().query(query_text)
     return response
 
 if __name__ == "__main__":
@@ -48,6 +56,7 @@ if __name__ == "__main__":
     manager = BaseManager(("", 5602), b"password")
     manager.register("initialize_indexes", initialize_indexes)
     manager.register("query_cases", query_cases)
+    manager.register("query_regs", query_regs)
 
     server = manager.get_server()
 

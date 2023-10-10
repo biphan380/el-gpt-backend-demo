@@ -86,11 +86,9 @@ disability.
 
 Metadata:
 title: George
-questions_this_excerpt_can_answer: 1. What specific grounds of discrimination were alleged in the application filed by Betty George against AccertaClaim Servicorp Inc.?
-2. What were the reasons provided by the respondent for not offering Betty George a particular position within the company?
-3. Why does the respondent seek dismissal of the application filed by Betty George?
-
-Higher-level summary: This context involves a discrimination case filed by Betty George against AccertaClaim Servicorp Inc. The application alleges discrimination in employment based on various grounds, including race, color, ethnic origin, and age. The applicant claims that she was denied a promotion opportunity due to discriminatory reasons, while the respondent argues that the applicant was a valued employee and placing her in the position would have resulted in a demotion. The respondent seeks dismissal of the application.
+questions_this_excerpt_can_answer: 1. What specific grounds of discrimination were identified in the original Application filed by Betty George against AccertaClaim Servicorp Inc.?
+2. What reasons does Betty George provide for alleging that she was denied the opportunity to compete for a position within the respondent organization?
+3. What arguments does the respondent organization make in denying the allegations of discrimination and seeking dismissal of the Application?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -157,7 +155,7 @@ Metadata:
 title: George
 questions_this_excerpt_can_answer: 1. How did the applicant's salary and job level change during her employment with the respondent company?
 2. What qualifications and courses did the applicant complete while employed by the respondent, and who paid for these courses?
-3. What is the relationship between the Ontario Dental Association (ODA) and the respondent company, and how are they connected in terms of office space and ownership?
+3. How did the applicant's previous work experience and education contribute to her employment with the respondent company?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -216,9 +214,9 @@ the business  known , she had not been  given any opportunities to do so.
 
 Metadata:
 title: George
-questions_this_excerpt_can_answer: 1. How did the applicant's salary and position change over time at the respondent company?
+questions_this_excerpt_can_answer: 1. How did the applicant's salary and job responsibilities change over time at the respondent company?
 2. What was the racial composition of the workplace and management structure at the respondent company?
-3. What were the main lines of business for the respondent company and how did the applicant's role fit into those lines of business?
+3. Why did the applicant express interest in moving to the public side of the business and what opportunities were given to her to do so?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -279,8 +277,8 @@ surprised when the applicant raised the issue of discrimination.
 Metadata:
 title: George
 questions_this_excerpt_can_answer: 1. What were the reasons given by the CEO for not investing in the private side of the business and focusing on the public side instead?
-2. Why did the applicant believe that the creation and filling of the newly created position on the public side of the business was irregular?
-3. What were the qualifications and experience of CQ that made her a good fit for the newly created position, according to the respondent?
+2. Why did the applicant believe that the transfer of CQ to the public side of the business was irregular and discriminatory?
+3. What were the qualifications and experience of CQ that made her a good fit for the newly created position on the public side of the business, according to the respondent?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -340,8 +338,8 @@ v. Kapp , 2008 SCC 41, and Withler v. Canada (Attorney General) , 2011 SCC 12.
 
 Metadata:
 title: George
-questions_this_excerpt_can_answer: 1. What evidence does Doug Cooper provide regarding the applicant's resignation and the issue of discrimination raised during the meeting?
-2. What were the company's plans for the applicant and why was she placed in an administrative role instead of being promoted to manager of operations?
+questions_this_excerpt_can_answer: 1. What evidence does Doug Cooper provide regarding the applicant's resignation and the issue of discrimination during the meeting?
+2. What were the company's plans for the applicant and why was she placed in an administrative role?
 3. How does the Supreme Court of Canada define discrimination under the Code and the Charter, and what criteria must be met to establish a case of discrimination?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
@@ -404,7 +402,7 @@ Metadata:
 title: George
 questions_this_excerpt_can_answer: 1. How does the Supreme Court of Canada define discrimination under both the Code and the Charter, and what criteria must be met to establish a case of discrimination?
 2. What is the applicant's argument regarding the respondent company's alleged systemic discrimination, and how does she support her claim?
-3. What is the respondent's defense against the applicant's allegations of discrimination, and what factors do they argue make the applicant's claims unfounded?
+3. What is the respondent's defense against the applicant's allegations of discrimination, and what reasons do they provide for their actions in creating and filling a new position without competition?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -464,8 +462,8 @@ Dated at Toronto, this 22nd day of January, 2016 .
 
 Metadata:
 title: George
-questions_this_excerpt_can_answer: 1. What was the specific event that caused the applicant to raise concerns about being overlooked for promotion and advancement within the respondent company?
-2. Was there any discernable disadvantage or harm to the applicant as a result of the hiring or promotion of CQ to a new position within the company?
+questions_this_excerpt_can_answer: 1. What was the event that caused the applicant to raise concerns about being overlooked for promotion and advancement within the respondent company?
+2. Was there any discernable disadvantage to the applicant resulting from the hiring or promotion of CQ to a new position within the company?
 3. Did the respondent company provide a non-discriminatory explanation for not considering the applicant for the job that CQ was placed into?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
@@ -751,9 +749,9 @@ forth across the street in an unusual manner as soon as they turned the corner.
 
 Metadata:
 title: Phipps
-questions_this_excerpt_can_answer: 1. How have Canadian courts acknowledged the existence of racial profiling by police and what factors do they consider when assessing whether an incident falls within the phenomenon of racial profiling?
-2. What factors did Constable Shaw claim influenced his actions in surveilling and stopping the applicant, and how does the chronology of events suggest that the applicant's skin colour played a role in his actions?
-3. How does the testimony of Constables Shaw and Noto, along with the evidence presented, support the conclusion that the applicant's skin colour was a significant factor, and possibly the predominant factor, in Constable Shaw's actions?
+questions_this_excerpt_can_answer: 1. How have Canadian courts acknowledged the existence of racial profiling by police and what factors do they consider when assessing whether police behavior falls within the phenomenon of racial profiling?
+2. What factors did Constable Shaw assert as unusual behavior exhibited by the applicant, and how did these factors influence his actions?
+3. Was the applicant's skin color a significant factor in Constable Shaw's surveillance, decision to stop, and subsequent inquiry about the applicant, and how does this relate to the phenomenon of racial discrimination and unconscious biases?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -810,9 +808,9 @@ testified Ms. Katz advised her that the applicant said he had misdelivered somet
 
 Metadata:
 title: Phipps
-questions_this_excerpt_can_answer: 1. What specific characteristics of the applicant led Constable Shaw to place him under surveillance in an affluent neighborhood?
-2. How did Constable Shaw's actions and behavior towards the applicant differ from his response to an unfamiliar white male delivering water in the same area?
-3. Why did Constable Shaw find it suspicious that the applicant knocked on a resident's door and spoke to a woman without delivering any mail or flyers?
+questions_this_excerpt_can_answer: 1. What specific factors led Constable Shaw to become suspicious of the applicant, and how did these factors differ from his response to other individuals in the area?
+2. Did the applicant's behavior, such as crossing back and forth across the street or not stopping at every house, align with the typical actions of letter carriers, and how did this impact Constable Shaw's perception of the situation?
+3. How did Constable Shaw's decision to place the applicant under surveillance reflect potential biases or discriminatory practices, and what actions did he take that further reinforced these biases?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends
 
@@ -873,7 +871,7 @@ private property.
 Metadata:
 title: Phipps
 questions_this_excerpt_can_answer: 1. How did Constable Shaw's suspicion of the applicant's behavior contribute to the breach of the applicant's right to equal treatment without discrimination on the basis of color?
-2. What were the specific actions taken by Constable Shaw that demonstrated his continued scrutiny of the applicant based on his color?
+2. What were the specific actions taken by Constable Shaw that indicated his continued scrutiny of the applicant, despite having no evidence of wrongdoing?
 3. How did the manner and content of the conversations between the applicant and the officers contribute to the overall discriminatory treatment experienced by the applicant?
 
 separator_starts@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@separator_ends

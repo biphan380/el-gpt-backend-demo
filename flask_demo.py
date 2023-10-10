@@ -17,6 +17,7 @@ CORS(app)
 manager = BaseManager(("", 5602), b"password")
 manager.register("initialize_index")
 manager.register("query_cases")
+manager.register("query_regs")
 
 # Try to connect
 # NOTE: we need a more graceful load bar while we wait for the indexes to be built because
@@ -43,6 +44,20 @@ def query_cases():
         return "No text found, please include a ?text=blah parameter in the URL", 400
     
     response = manager.query_cases(query_text)._getvalue()
+    response_json = {
+        "text": str(response),
+    }
+    return make_response(jsonify(response_json)), 200
+
+@app.route("/query_regs", methods=["GET"])
+def query_regs():
+    global manager
+    query_text = request.args.get("text", None)
+
+    if query_text is None:
+        return "No text found, please include a ?text=blah parameter in the URL", 400
+    
+    response = manager.query_regs(query_text)._getvalue()
     response_json = {
         "text": str(response),
     }

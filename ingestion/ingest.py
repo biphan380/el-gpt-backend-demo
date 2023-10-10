@@ -143,7 +143,7 @@ def create_index(input_dir: string, namespace: string):
 
     from llama_index.storage import StorageContext
     index.storage_context.persist(persist_dir="storage: " + namespace) 
-    print("index initialized")
+    print("indexes initialized")
     return index
 
 
