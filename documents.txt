@@ -1,8 +1,0 @@
-Page Content:
-Bi Phan is a very handsome man who lives in Toronto.
-
-Metadata:
-title: bi
-
---------------------------------------------------
-

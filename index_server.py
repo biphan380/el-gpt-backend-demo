@@ -28,18 +28,18 @@ def initialize_indexes():
     # as to avoid using too many global variables
     # but if we already know our globals beforehand, why would we ever let the client dynamically define
     # our globals?
-    global cases_index_manager, regs_index_manager, cases_index, regs_index
+    global cases_index_manager, regs_index_manager
     
     cases_index_manager = IndexManager("cases/", "cases_index")
     regs_index_manager = IndexManager("regs/", "regs_index")
     
-    cases_index = cases_index_manager.create_index("cases/")
-    regs_index = regs_index_manager.create_index("regs/")
+    cases_index_manager.create_index("cases/")
+    regs_index_manager.create_index("regs/")
 
 def query_cases(query_text):
     """Query the global cases_index."""
     print("querying cases index...")
-    response = cases_index.as_query_engine().query(query_text)
+    response = cases_index_manager.index.as_query_engine().query(query_text)
     return response
 
 def query_regs(query_text):
