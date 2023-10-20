@@ -20,30 +20,32 @@ stored_docs = {}
 llama_debug = LlamaDebugHandler(print_trace_on_end=True)
 callback_manager = CallbackManager([llama_debug])
 
-from ingestion.ingest import create_index
+from ingestion.index_manager import IndexManager
 
-def initialize_indexes(): 
+def initialize_indexes():
     print("start to initialize indexes")
-    """Create a new global index, or load one from the pre-set path."""
-    # Need a way to distinguish the indexes
-    global cases_index, regs_index, stored_docs, docstore, index_store
-
-    # arg1 is directory to read from and arg2 is a namespace prefix for the directory that's persisted to disk 
-    cases_index = create_index("cases/", "cases_index")
-    regs_index = create_index("regs/", "regs_index")
+    # We might consider using the singleton pattern to create one IndexManager in the future
+    # as to avoid using too many global variables
+    # but if we already know our globals beforehand, why would we ever let the client dynamically define
+    # our globals?
+    global cases_index_manager, regs_index_manager, cases_index, regs_index
+    
+    cases_index_manager = IndexManager("cases/", "cases_index")
+    regs_index_manager = IndexManager("regs/", "regs_index")
+    
+    cases_index = cases_index_manager.create_index("cases/")
+    regs_index = regs_index_manager.create_index("regs/")
 
 def query_cases(query_text):
     """Query the global cases_index."""
     print("querying cases index...")
-    global cases_index
     response = cases_index.as_query_engine().query(query_text)
     return response
 
 def query_regs(query_text):
     """Query the global regs_index."""
     print("querying regs index...")
-    global regs_index
-    response = regs_index.as_query_engine().query(query_text)
+    response = regs_index_manager.index.as_query_engine().query(query_text)
     return response
 
 if __name__ == "__main__":
