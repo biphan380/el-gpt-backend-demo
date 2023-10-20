@@ -12,8 +12,7 @@ from llama_index.schema import TextNode
 from utils.to_file import write_nodes_to_file
 
 class IndexManager:
-    def __init__(self, input_dir, namespace):
-        self.input_dir = input_dir
+    def __init__(self, namespace):
         self.namespace = namespace
         self.index = None
         self.stored_docs = {}

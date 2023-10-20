@@ -30,8 +30,8 @@ def initialize_indexes():
     # our globals?
     global cases_index_manager, regs_index_manager
     
-    cases_index_manager = IndexManager("cases/", "cases_index")
-    regs_index_manager = IndexManager("regs/", "regs_index")
+    cases_index_manager = IndexManager("cases_index")
+    regs_index_manager = IndexManager("regs_index")
     
     cases_index_manager.create_index("cases/")
     regs_index_manager.create_index("regs/")
