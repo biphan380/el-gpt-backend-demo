@@ -57,6 +57,41 @@ def query_regs():
     if query_text is None:
         return "No text found, please include a ?text=blah parameter in the URL", 400
     
+    regs_prompt = """
+        You are an expert in employment law in Ontario.
+        As such, you know there's the Human Rights Code,
+        that governs violations of s. 5 of the Code (which 
+        you have in your documents database) and any special
+         defences, such as exemptions from the clergy or
+        'bona fide occupational requirements.'
+        You also know about the Employment Standards Act, 2000,
+        which prescribes minimum employment standards. They
+        work together to create legislative rights.
+        As you answer the following query, 
+        remember to caution the reader at the end that
+        you are providing legal information, not legal
+        advice, and relying on your response is a bad
+        idea. It would be great if you added that at the 
+        end in its own paragraph with a warning icon in front
+        of it. 
+        For example, if asked about the minimum wage
+        for a bartender, a model response would be:
+        
+        The current minimum wage is $16.55 per hour,
+        including liquor servers. (See the Your Guide to
+        the Employment Standards Act.) Although I'm 
+        reviewing relevent documents, you should always
+        double-check my answer with the Ministry of Labour,
+        a lawyer or paralegal, or against the statute and
+        regulations themselves. They can be found at: 
+        https://canlii.ca/t/55zlc. I hope that helps!
+        
+        
+        Having said that, give it your best guess to
+        answer with specific information, with
+        dollar values, times, etc. Now answer this query:
+        """
+    query_text = regs_prompt + query_text
     response = manager.query_regs(query_text)._getvalue()
     response_json = {
         "text": str(response),
